@@ -1,0 +1,1 @@
+The idea of this task is to create a web page using a framework. A framework helps you as a web developer to reach a final solution faster by constantly using CSS files provided by a particular framework. When a framework is used to develop the page, you do not write any, or almost no CSS yourself, but instead use the CSS that comes with the framework.
